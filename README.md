@@ -14,9 +14,6 @@ Programa básico para inserção e remoção de novos livros e usuários em uma 
 
 - [ ] Somente é necessário abrir o arquivo.
 
-
-## ⚙️ Sobre
-
 ### 📄 Licença
 
 - [ ] Este projeto está sob domínio de Pedro Victor.
